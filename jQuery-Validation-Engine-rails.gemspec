@@ -6,11 +6,11 @@ require 'jQuery-Validation-Engine-rails/version'
 Gem::Specification.new do |gem|
   gem.name          = "jQuery-Validation-Engine-rails"
   gem.version       = JQuery::Validation::Engine::Rails::VERSION
-  gem.authors       = ["qichunren"]
-  gem.email         = ["whyruby@gmail.com"]
+  gem.authors       = ["josegrad"]
+  gem.email         = ["josegrad@gmail.com"]
   gem.description   = %q{jQuery-Validation-Engine jquery plugin for rails project.}
   gem.summary       = %q{jQuery-Validation-Engine jquery plugin for rails project.}
-  gem.homepage      = "https://github.com/qichunren/jQuery-Validation-Engine-rails"
+  gem.homepage      = "https://github.com/josegrad/jQuery-Validation-Engine-rails"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

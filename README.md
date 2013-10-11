@@ -27,7 +27,7 @@ Or install it yourself as:
 ###  JS
 
 ```
-//= require jquery.validationEngine-zh_CN
+//= require jquery.validationEngine-es
 //= require jquery.validationEngine
 ```
 
