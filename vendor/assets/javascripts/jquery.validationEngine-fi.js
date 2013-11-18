@@ -7,7 +7,7 @@
                 "required": { // Add your regex rules here, you can take telephone as an example
                     "regex": "none",
                     "alertText": "*  Kenttä on pakollinen",
-                    "alertTextCheckboxMultiple": "* Yksi valikoima, kiitos",
+                    "alertTextCheckboxMultiple": "* Valitse yksi, kiitos",
                     "alertTextCheckboxe": "* Tarkistusmerkki on pakollinen"
                 },
                 "requiredInFunction": { 
