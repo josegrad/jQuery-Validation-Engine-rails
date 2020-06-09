@@ -181,11 +181,10 @@
                     "alertText2": "Format yang diharapkan: ",
                     "alertText3": "bb/hh/tttt jj:mm:dd atau ",
                     "alertText4": "tttt-bb-hh jj:mm:dd"
-                },
-            
+                }
+            };
         }
     };
-
     $.validationEngineLanguage.newLang();
     
 })(jQuery);
